@@ -4,6 +4,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/india-hill)
 
+Here's the link to my [resume!](https://github.com/duracellB/resume/blob/main/Hill%2C%20India%20-%20Resume.pdf)
+
 > As a software engineer with a genuine love for technology and a knack for problem-solving, I'm passionate about creating innovative solutions that make a difference. I'm always eager to learn and explore new skills, and I take pride in my ability to work collaboratively with others to deliver outstanding results. I approach every project with meticulous attention to detail and an unwavering commitment to excellence. I'm excited to join any team or organization that values creativity, teamwork, and a positive, can-do attitude.
 
 #### Technologies:
