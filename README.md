@@ -19,7 +19,9 @@ You can reach me at my email, [schlae.h@gmail.com](schlae.h@gmail.com)
 
 📌 **Pinned** are some of the projects I have worked on, **feel free to check them out!**
 
-🤩 **Starred** has some of the **templates I have worked off of**, repositories I've used to **study** with, and some past **assignments** 
+🤩 **Starred** has some of the **templates I have worked off of** and repositories I've used to **study** with
+
+🫣 **Other** repositories are mainly some past **assignments**
 
 <sup>(feel free to not look at those)</sup>
 
