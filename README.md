@@ -1,6 +1,6 @@
 ## Hey! Welcome to my GitHub! 👋
 
-### I am India Hill (she/her), a full stack developer, and currently a fellow at the Marcy Lab School!
+### I am India Hill (she/her), a full stack developer, and currently a fellow at the Marcy Lab School!☺️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/india-hill)
 
@@ -8,11 +8,22 @@
 
 #### Technologies:
 
-   **Proficient:** JavaScript, Node.js, HTML5, CSS, Git, SQL, Rest APIs, VSCode
+   😎 **Proficient:** JavaScript, Node.js, HTML5, CSS, Git, SQL, Rest APIs, VSCode
       
-   **Experienced:** TablePlus, Express.js, Knex.js, PostgreSQL, TypeScript, Python, AWS Lambda, Object Oriented Programming
+   🫡 **Experienced:** TablePlus, Express.js, Knex.js, PostgreSQL, TypeScript, Python, AWS Lambda, Object Oriented Programming
 
 You can reach me at my email, [schlae.h@gmail.com](schlae.h@gmail.com)
+
+
+***
+
+📌 **Pinned** are some of the projects I have worked on, **feel free to check them out!**
+
+🤩 **Starred** has some of the **templates I have worked off of**, repositories I've used to **study** with, and some past **assignments** 
+
+<sup>(feel free to not look at those)</sup>
+
+***
 
 <!--
 **duracellB/duracellB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
