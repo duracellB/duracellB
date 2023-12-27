@@ -1,6 +1,6 @@
 ## Hey! Welcome to my GitHub! 👋
 
-### I am India Hill (she/her), a full stack developer, and currently a fellow at the Marcy Lab School!☺️
+### I am India Hill (she/her), a full stack developer, and currently a tech fellow at Spotify!☺️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/india-hill)
 
